@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://honsures.github.io/sitemap.html.gz
+Sitemap: https://honsures.github.io/app/sitemap.html.gz
+Sitemap: https://honsures.github.io/assets/sitemap.html.gz
+Sitemap: https://honsures.github.io/css/sitemap.html.gz
+Sitemap: https://honsures.github.io/includes/sitemap.html.gz
+Sitemap: https://honsures.github.io/item/sitemap.html.gz
+Sitemap: https://honsures.github.io/src/sitemap.html.gz
